@@ -1,0 +1,17 @@
+.inputLayout {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.input {
+  width: 27%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0.5rem;
+}
+
+.inputBox {
+  padding: 0.25rem 0.5rem;
+}

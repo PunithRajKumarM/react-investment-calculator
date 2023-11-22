@@ -1,0 +1,15 @@
+.resultsLayout {
+  padding: 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  width: 100%;
+}
+th {
+  color: hsl(55, 81%, 56%);
+}
+th,
+td {
+  padding: 0.5rem 1rem;
+}
