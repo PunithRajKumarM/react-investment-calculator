@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+![Screenshot (22)](https://github.com/PunithRajKumarM/react-investment-calculator/assets/146944110/260a49a6-2965-4ffb-9c0b-61b7d0047db1)
+![Screenshot (23)](https://github.com/PunithRajKumarM/react-investment-calculator/assets/146944110/6d1cdc08-5822-4b2d-bff3-3d0556916bd4)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
